@@ -1,3 +1,8 @@
 ./nohup.out
 nohup.out
 .idea
+ustc_score_monitoring.py
+payload.json
+index.html
+.DS_Store
+data.json
